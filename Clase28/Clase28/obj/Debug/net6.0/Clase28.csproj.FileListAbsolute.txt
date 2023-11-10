@@ -1,0 +1,15 @@
+C:\Users\Usuario\Documents\Personal\UTN\Proyectos C#\Clase28\Clase28\bin\Debug\net6.0\Clase28.exe
+C:\Users\Usuario\Documents\Personal\UTN\Proyectos C#\Clase28\Clase28\bin\Debug\net6.0\Clase28.deps.json
+C:\Users\Usuario\Documents\Personal\UTN\Proyectos C#\Clase28\Clase28\bin\Debug\net6.0\Clase28.runtimeconfig.json
+C:\Users\Usuario\Documents\Personal\UTN\Proyectos C#\Clase28\Clase28\bin\Debug\net6.0\Clase28.dll
+C:\Users\Usuario\Documents\Personal\UTN\Proyectos C#\Clase28\Clase28\bin\Debug\net6.0\Clase28.pdb
+C:\Users\Usuario\Documents\Personal\UTN\Proyectos C#\Clase28\Clase28\obj\Debug\net6.0\Clase28.csproj.AssemblyReference.cache
+C:\Users\Usuario\Documents\Personal\UTN\Proyectos C#\Clase28\Clase28\obj\Debug\net6.0\Clase28.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Usuario\Documents\Personal\UTN\Proyectos C#\Clase28\Clase28\obj\Debug\net6.0\Clase28.AssemblyInfoInputs.cache
+C:\Users\Usuario\Documents\Personal\UTN\Proyectos C#\Clase28\Clase28\obj\Debug\net6.0\Clase28.AssemblyInfo.cs
+C:\Users\Usuario\Documents\Personal\UTN\Proyectos C#\Clase28\Clase28\obj\Debug\net6.0\Clase28.csproj.CoreCompileInputs.cache
+C:\Users\Usuario\Documents\Personal\UTN\Proyectos C#\Clase28\Clase28\obj\Debug\net6.0\Clase28.dll
+C:\Users\Usuario\Documents\Personal\UTN\Proyectos C#\Clase28\Clase28\obj\Debug\net6.0\refint\Clase28.dll
+C:\Users\Usuario\Documents\Personal\UTN\Proyectos C#\Clase28\Clase28\obj\Debug\net6.0\Clase28.pdb
+C:\Users\Usuario\Documents\Personal\UTN\Proyectos C#\Clase28\Clase28\obj\Debug\net6.0\Clase28.genruntimeconfig.cache
+C:\Users\Usuario\Documents\Personal\UTN\Proyectos C#\Clase28\Clase28\obj\Debug\net6.0\ref\Clase28.dll
