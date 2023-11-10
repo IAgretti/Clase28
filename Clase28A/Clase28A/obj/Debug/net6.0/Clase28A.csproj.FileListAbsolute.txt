@@ -1,0 +1,15 @@
+C:\Users\Usuario\Documents\Personal\UTN\Proyectos C#\Clase28A\Clase28A\bin\Debug\net6.0\Clase28A.exe
+C:\Users\Usuario\Documents\Personal\UTN\Proyectos C#\Clase28A\Clase28A\bin\Debug\net6.0\Clase28A.deps.json
+C:\Users\Usuario\Documents\Personal\UTN\Proyectos C#\Clase28A\Clase28A\bin\Debug\net6.0\Clase28A.runtimeconfig.json
+C:\Users\Usuario\Documents\Personal\UTN\Proyectos C#\Clase28A\Clase28A\bin\Debug\net6.0\Clase28A.dll
+C:\Users\Usuario\Documents\Personal\UTN\Proyectos C#\Clase28A\Clase28A\bin\Debug\net6.0\Clase28A.pdb
+C:\Users\Usuario\Documents\Personal\UTN\Proyectos C#\Clase28A\Clase28A\obj\Debug\net6.0\Clase28A.csproj.AssemblyReference.cache
+C:\Users\Usuario\Documents\Personal\UTN\Proyectos C#\Clase28A\Clase28A\obj\Debug\net6.0\Clase28A.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Usuario\Documents\Personal\UTN\Proyectos C#\Clase28A\Clase28A\obj\Debug\net6.0\Clase28A.AssemblyInfoInputs.cache
+C:\Users\Usuario\Documents\Personal\UTN\Proyectos C#\Clase28A\Clase28A\obj\Debug\net6.0\Clase28A.AssemblyInfo.cs
+C:\Users\Usuario\Documents\Personal\UTN\Proyectos C#\Clase28A\Clase28A\obj\Debug\net6.0\Clase28A.csproj.CoreCompileInputs.cache
+C:\Users\Usuario\Documents\Personal\UTN\Proyectos C#\Clase28A\Clase28A\obj\Debug\net6.0\Clase28A.dll
+C:\Users\Usuario\Documents\Personal\UTN\Proyectos C#\Clase28A\Clase28A\obj\Debug\net6.0\refint\Clase28A.dll
+C:\Users\Usuario\Documents\Personal\UTN\Proyectos C#\Clase28A\Clase28A\obj\Debug\net6.0\Clase28A.pdb
+C:\Users\Usuario\Documents\Personal\UTN\Proyectos C#\Clase28A\Clase28A\obj\Debug\net6.0\Clase28A.genruntimeconfig.cache
+C:\Users\Usuario\Documents\Personal\UTN\Proyectos C#\Clase28A\Clase28A\obj\Debug\net6.0\ref\Clase28A.dll
